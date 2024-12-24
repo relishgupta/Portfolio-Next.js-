@@ -18,9 +18,9 @@ const Photo = () => {
                 opacity:1,
                 transition:{delay:2.4,duration:0.4,ease:"easeInOut"}  
               }}
-            className="w-[310px] h-[333px] xl:w-[524px] xl:h-[562px] mix-blend-lighten absolute">
+            className="w-[310px] h-[278px] xl:w-[500px] xl:h-[470px] mix-blend-lighten absolute">
                 <Image  
-                    src="/assets/relish.png"
+                    src="/assets/relish1.png"
                     priority
                     quality={100}
                     fill
